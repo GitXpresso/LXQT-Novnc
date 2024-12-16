@@ -1,0 +1,2 @@
+ Light X11 Desktop Environment 
+wdis stands for "what does it stand for?"
