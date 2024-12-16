@@ -1,0 +1,3 @@
+ LXQt is a lightweight Qt desktop environment.
+
+It will not get in your way. It will not hang or slow down your system. It is focused on being a classic desktop with a modern look and feel. 
