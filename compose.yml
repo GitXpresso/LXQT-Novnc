@@ -7,7 +7,7 @@ services:
       - USER=
       - PASSWORD=
       - VNC_PASSWORD=
-      - RESOLUTION=869x454
+      - RESOLUTION=1304x681 # optional
       - RELATIVE_URL_ROOT=/home
     volumes:
       - /dev/shm:/dev/shm
